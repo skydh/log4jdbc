@@ -478,7 +478,7 @@ public class DriverSpy implements Driver
 			subDrivers.add("com.informix.jdbc.IfxDriver");
 			subDrivers.add("org.apache.derby.jdbc.ClientDriver");
 			subDrivers.add("org.apache.derby.jdbc.EmbeddedDriver");
-			subDrivers.add("com.mysql.jdbc.Driver");
+			subDrivers.add("com.mysql.cj.jdbc.Driver");
 			subDrivers.add("org.postgresql.Driver");
 			subDrivers.add("org.hsqldb.jdbcDriver");
 			subDrivers.add("org.h2.Driver");
